@@ -1,0 +1,36 @@
+nav:
+  - title: Firefox Addons
+    url: firefox_addons.html
+
+  - title: WhenIsGood
+    url: when_is_good.html
+
+  - title: MindStorm NXT 2.0
+    url: mindstorm.html
+
+  - title: StackOverflow Questions
+    url: stackoverflow.html
+
+  - title: Tech Stack
+    url: tech.html
+    subnav:
+      - title: Gadgets
+        url: gadgets.html
+
+      - title: Computer Software Provisioning
+        url: provisioning.html
+        subnav:
+          - title: Windows
+            url: windows.html
+
+          - title: OS X
+            url: os_x.html
+
+  - title: Wisdom
+    url: wisdom.html
+
+  - title: TED Talks
+    url: ted_talks.html
+
+  - title: Random Stuff
+    url: random.html
