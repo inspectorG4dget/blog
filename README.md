@@ -1,7 +1,6 @@
 ---
 title: Personal Blog of Ashwin Panchapakesan
 description: A collection of interesting stuff
-sidebar: toc
 ---
 
 ## Personal Blog of Ashwin Panchapakesan
