@@ -20,6 +20,6 @@ It is both feature complete and has a good enough UI, which makes it usable for 
 ## Multi-person availability
 This marks who is unable to make a given time
 
-  ## Schedulable time
+## Schedulable time
 
 [WhenIsGood]: whenisgood.net
