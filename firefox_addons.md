@@ -1,7 +1,9 @@
-On this page, I discuss my favorite Firefox addons
+Here's a list of Firefox addons I include as part of my toolchain
 
-# Contents
 * TOC
 {:toc}
-
 ---
+
+# TreeStyle Tab
+
+# Tab Renamer
