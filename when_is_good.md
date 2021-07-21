@@ -1,8 +1,4 @@
----
-layout: default
----
-
-# Contents
+**Contents**
 * TOC
 {:toc}
 
