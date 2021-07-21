@@ -5,6 +5,7 @@ The hope is very much that Google will do a better job of organizing this infrom
 
 - [FireFox Addons](firefox_addons.md)
 - [My Tech Stack](tech.md)
+- [My Gear](gear.md)
 - [Learning](learning.md)
 - [Machines Like Us](machines_like_us.md)
 - [Mindstorm NXT](mindstorm_nxt_2_0.md)
