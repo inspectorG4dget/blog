@@ -1,8 +1,3 @@
----
-title: Personal Blog of Ashwin Panchapakesan
-description: A collection of interesting stuff
----
-
 ## Personal Blog of Ashwin Panchapakesan
 
 This is pretty much just a catch-all for things I find interesting, organized in some way that makes sense to me... sometimes.
