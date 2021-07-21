@@ -1,4 +1,11 @@
 theme: jekyll-theme-leap-day
 title: Personal Blog of Ashwin Panchapakesan
 description: A collection of interesting stuff
-sidebar: toc
+
+navbar-links:
+  About Me: "aboutme"
+  Firefox Addons: "firefox_addons"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
