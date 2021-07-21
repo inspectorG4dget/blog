@@ -1,14 +1,7 @@
 On this page, I discuss my favorite Firefox addons
 
-**Contents**
+# Contents
 * TOC
 {:toc}
 
-# One
-ahoy
-
-# Two 
-ahoyhoy
-
-# Three
-hehehehe
+---
