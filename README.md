@@ -1,7 +1,3 @@
----
-has_children: true
----
-
 ## Personal Blog of Ashwin Panchapakesan
 
 This is pretty much just a catch-all for things I find interesting, organized in some way that makes sense to me... sometimes.
