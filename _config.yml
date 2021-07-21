@@ -3,10 +3,4 @@ title: Personal Blog of Ashwin Panchapakesan
 author: Ashwin Panchapakesaan
 description: A collection of interesting stuff
 
-navbar-links:
-  About Me: "aboutme"
-  Firefox Addons: "firefox_addons"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+* TOC {:toc}
