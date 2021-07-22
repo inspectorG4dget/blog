@@ -1,7 +1,0 @@
-**Contents**
-* TOC
-{:toc}
-
----
-
-# Introduction
