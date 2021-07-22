@@ -39,6 +39,10 @@ I currently use a [Samsung Galaxy S8 (SMG 950W)][S8].
 
 ## Sony XM4
 
+Before I say anything, here's Marques Brownlee's review of these headphones.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bInJjmH31Hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Others not Worth Talking About
 
 - HyperX
