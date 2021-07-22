@@ -58,4 +58,10 @@ Before I say anything, here's Marques Brownlee's review of these headphones.
 
 # Mouse
 
+# Software
+
+## LyX
+
+## yEd
+
 [S8]: https://www.gsmarena.com/samsung_galaxy_s8-8161.php
