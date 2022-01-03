@@ -1,9 +1,3 @@
-**Contents**
-* TOC
-{:toc}
-
----
-
 # Introduction
 
 # My Gear
@@ -14,8 +8,16 @@
 
 ## Backpacks
 
-### Osprey Kods 32
+### Osprey Kode 32
 
 ### Osprey ~Blue bag~
 
 ### Timbuk2
+
+## Emergency Repair Kit
+
+### Allen Keys
+
+### Screw Drivers
+
+### Lock Pick Kit
