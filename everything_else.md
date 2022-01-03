@@ -9,12 +9,6 @@ This is a collection of random stuff, I find interesting. There's no organizatio
 - [Simo Hayha, aka The White Death](https://en.wikipedia.org/wiki/Simo_H%C3%A4yh%C3%A4)
 - <details>
       <summary>
-        Avatar, the movie is really Pocahontas?!
-      </summary>
-      <img src="http://forum.yesbutnobutyes.com/avatar_cam.jpg" />
-  </details>
-- <details>
-      <summary>
         Someone's list of the best movies of all time
       </summary>
       <img src="http://www.slashfilm.com/wp/wp-content/images/zz77e4364e.jpg" />
