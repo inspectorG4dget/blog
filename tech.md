@@ -186,6 +186,8 @@ I Logitech ever reads this post, I would buy this keyboard if the `ctrl`, `alt`,
 
 ## RescueTime
 
+## Instapaper
+
 ## 1Password
 
 ## Command Line Stuff
