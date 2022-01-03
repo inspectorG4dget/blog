@@ -3,9 +3,10 @@
 This is pretty much just a catch-all for things I find interesting, organized in some way that makes sense to me... sometimes.
 The hope is very much that Google will do a better job of organizing this infromation to make it easier to find for anyone that's not in my head :)
 
-- [FireFox Addons](firefox_addons.md)
+- [Web Browsers](web_browsers.md)
 - [My Tech Stack](tech.md)
 - [My Gear](gear.md)
+- [Technical Tooling](technical_tooling.md)
 - [Learning](learning.md)
 - [Machines Like Us](machines_like_us.md)
 - [Mindstorm NXT](mindstorm_nxt_2_0.md)
@@ -14,4 +15,4 @@ The hope is very much that Google will do a better job of organizing this infrom
 - [Ted Talks](ted_talks.md)
 - [WhenIsGood](when_is_good.md)
 - [Wisdom](wisdom.md)
-- [Everything Else](random.md)
+- [Everything Else](everything_else.md)
