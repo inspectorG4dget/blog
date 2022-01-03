@@ -2,6 +2,10 @@
 
 This page lists my tech gear. Sometimes, there's a review attached. Other times, I haven't gotten around to writing a full review, or I don't have anything particularly relevant to say. If you do have any questions, please feel free to [contact me][contact], and I'll be happy to help out as best I can.
 
+* TOC
+{:toc}
+---
+
 # Cellular Phone
 
 While there is a lot to be said about how far phones have come, I find them to be very annoying - useful, but annoying.
