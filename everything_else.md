@@ -1,4 +1,4 @@
-# Random stuff
+# Random Stuff
 
 This is a collection of random stuff, I find interesting. There's no organization here... it's a chaotic wasteland of things that I find somewhat interesting, dumped all in one place. Enjoy the random finds!
 
