@@ -1,4 +1,4 @@
-# Introduction
+# My Tech gear
 
 This page lists my tech gear. Sometimes, there's a review attached. Other times, I haven't gotten around to writing a full review, or I don't have anything particularly relevant to say. If you do have any questions, please feel free to [contact me][contact], and I'll be happy to help out as best I can.
 
