@@ -159,18 +159,20 @@ You shouldn't ever need to change the battery, but if that need arises, it's not
 
 The [Logitech K810][logitech k810] is a Li-ion rechargeable bluetooth keyboard that remembers up to three devices. For a while, this was my favorite keyboard and I commuted to work with it in my backpack. It even charged via a computer's USB port, allowing it to function as a wired keyboard on that computer. It also had the ability to function while being charged, which was a massive bonus. It's apparently called the K811 now, but I don't see much of a functional difference between the two models.
 
-| Pros | Cons |
-|:----:|:----:|
-| Chiclet key layout | |
-| No numpad | |
-| Wireless bluetooth with multipoint connectivity |  |
-| Low profile |  |
-| High operating force |  |
-| Quiet |  |
-| Low total travel distance |  |
-| Tactile feedback |  |
-| Easy to recharge battery |  |
-| No battery e-waste |  |
+|                      Pros                       |                  Cons                   |
+|:-----------------------------------------------:|:---------------------------------------:|
+|               Chiclet key layout                |                                         |
+|                   No num pad                    |                                         |
+| Wireless bluetooth with multipoint connectivity |                                         |
+|                   Low profile                   |                                         |
+|              High operating force               |                                         |
+|                      Quiet                      |                                         |
+|            Low total travel distance            |                                         |
+|                Tactile feedback                 |                                         |
+|            Easy to recharge battery             |                                         |
+|        Can function while being charged         |                                         |
+|               No battery e-waste                |                                         |
+|                                                 | Makes my fingers cramp up after a while |
 
 ## Logitech MX Keys Mini
 
