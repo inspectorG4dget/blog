@@ -77,7 +77,7 @@ Now to the downside:
 
 ## Sennheiser HD 280 Pro
 
-[link][sennheiserHD280Pro]
+[These][sennheiserHD280Pro] were my first love. I bought these after finishing undergrad with the [Sony MDR XD400][Sony MDR XD400]. These were the most expensive headphones I'd purchased, and I've bought them many times over, since; as well as recommend them to others. I used them all through grad school (they're very durable) and would still use them today except there's no wireless version and the cord is way too long (for good reason, but it just doesn't work for _my_ use case).
 
 ## Others not Worth Talking About
 
@@ -229,6 +229,7 @@ I Logitech ever reads this post, I would buy this keyboard if the `ctrl`, `alt`,
 [avantreeAria]: https://www.amazon.ca/gp/product/B07TJRGPHL/
 [sennheiserHD280Pro]: https://www.amazon.com/gp/product/B000065BPB/
 [aftershokz trekz titanium]: https://www.amazon.ca/Aftershokz-Titanium-AS600SG-Earset-Behind/dp/B07PYMY6GS/
+[Sony MDR XD400]: https://www.amazon.com/Sony-MDRXD400-SONY-Home-Headphones/dp/B0007TBJYU/ref=cm_cr_arp_d_product_top?ie=UTF8
 
 [rechargeableFlashlight]: https://www.amazon.ca/gp/product/B083W9SKND
 
