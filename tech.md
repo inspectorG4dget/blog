@@ -29,7 +29,7 @@ I currently use a [Samsung Galaxy S8 (SMG 950W)][S8].
 
 ### HTC Touch (Windows)
 
-# Headphones
+# Headphones and Headsets
 
 I am no audiophile, but I do like good sound quality, and the ability to cocoon myself to "get in the zone" with good headphones. I used to use in-ear headphones for their sound isolating capabilities and the fact that they're super portable. However, they turn out to cause pimples in my ears when I use them for extended periods of time. 
 
@@ -48,6 +48,12 @@ All that said, here are the headphones I've used:
 Before I say anything, here's Marques Brownlee's review of these headphones.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bInJjmH31Hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This is a really good headset. It's comfortable and light-weight and doesn't cause my ears to sweat too much.
+
+The main reason I needed to buy this is that I needed a headset with a microphone that I could hear myself through. Because COVID forced me to work from home, I needed to increasingly be on more Zoom/Teams/Meet calls. These often required me to wear a headset so that my apartment didn't get too loud. The problem is that with sound isolating headsets, I tend to be unable to hear myself and have to speak louder to hear my own feedback - this makes my throat sore very quickly, which I don't like. 
+
+While it is possible to configure OS-level software to send recorded feedback through the audio output, there is an unhelpful, noticeable delay. The solution seemed to be an audio interface, which tend to be expensive. For example, the [FocusRite Scarlett][focusrite scarlett] is a popular entry-level option, which costs > $200 at the time of this writing. Additionally, using audio interfaces makes it almost impossible to use wireless headphones, which was a deal-breaker for me.
 
 ## Avantree Aria
 
@@ -196,6 +202,8 @@ I Logitech ever reads this post, I would buy this keyboard if the `ctrl`, `alt`,
 
 ### tmux
 
+## Git-Crypt
+
 [S8]: https://www.gsmarena.com/samsung_galaxy_s8-8161.php
 [contact]: https://inspectorg4dget.com/contact
 [galaxyWatchAmazon]: https://www.amazon.ca/Samsung-Active2-Silicon-Aluminum-Bluetooth/dp/B07YNV6HGF
@@ -221,3 +229,5 @@ I Logitech ever reads this post, I would buy this keyboard if the `ctrl`, `alt`,
 [logitech ergo k860]: https://www.amazon.ca/Logitech-Wireless-Ergonomic-Keyboard-Wrist/dp/B07ZWK2TQT/
 [logitech mx keys mini]: 
 [cr2032]: https://www.amazon.ca/AmazonBasics-CR2032-Lithium-Coin-Cell/dp/B0787K2XWZ/
+
+[focusrite scarlett]: https://www.amazon.ca/Focusrite-SCARLETT-2I2-3RD-GEN-2x2-Audio-Interface/dp/B07QR73T66/
