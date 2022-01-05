@@ -57,9 +57,23 @@ While it is possible to configure OS-level software to send recorded feedback th
 
 ## Avantree Aria
 
-[link][avantreeAria]
+The [Avantree Aria][avantreeAria] is a good headset on paper. It even has a detachable boom mic, which swivels in place. An interesting feature is that the detachable boom mic attaches via a 3.5mm port, which means that when the battery dies, the headphones can survive with an auxiliary cable.
+
+The downside to this headset is that the bluetooth compression isn't the best. This has two effects: 
+
+1. There is a noticeable lag between the video and the audio
+2. There are noticeable compression artifacts which hamper the audio quality in video calls (Zoom, Discord, Google Meet, etc.)
 
 ## Aftershokz Trekz Titanium
+
+[These][aftershokz trekz titanium] were my experiment with Bone conduction technology, specifically for commuting. I've always wanted some headphones that delivered high-fidelity audio, but also allowed some ambient sound to play through. This is very counter-intuitive for "getting in the zone" at work. So it's important to understand that this is not what I'd recommend these headphones for.
+
+I like these headphones as sport/commuter gear. They are lightweight and durable, and they leave the ears open, allowing me to hear ambient noise (so I can cross the street, knowing that I can still hear the traffic). They also fit well below (not under) my helmet when I'm on my bicycle.
+
+Now to the downside:
+
+1. I have sideburns which sometimes get irritated by the vibrations.
+1. Using these for extended periods of time causes some sweat buildup on the skin where they rest. They also cause a "phantom vibration effect", somewhat like when I feel my phone buzzing in my pocket when it's not actually in there.
 
 ## Sennheiser HD 280 Pro
 
@@ -214,6 +228,7 @@ I Logitech ever reads this post, I would buy this keyboard if the `ctrl`, `alt`,
 
 [avantreeAria]: https://www.amazon.ca/gp/product/B07TJRGPHL/
 [sennheiserHD280Pro]: https://www.amazon.com/gp/product/B000065BPB/
+[aftershokz trekz titanium]: https://www.amazon.ca/Aftershokz-Titanium-AS600SG-Earset-Behind/dp/B07PYMY6GS/
 
 [rechargeableFlashlight]: https://www.amazon.ca/gp/product/B083W9SKND
 
