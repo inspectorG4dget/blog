@@ -216,6 +216,12 @@ Funnily enough, [this $15 Amazon Basics mouse][amazon basics mouse] was the leas
 
 # Software
 
+I run a lot of computers, on across pretty much all three major operating systems. I prefer my work computer to be Mac OS X, Windows for my personal computer (for Steam gaming), and Ubuntu linux for my dev machine.
+
+Consequently, I like my software to be cross-platform... and as close to free as possible.
+
+Here's the list of software that usually appears on my tooling.
+
 ## LyX
 
 ## yEd
