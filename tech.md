@@ -184,19 +184,35 @@ It's ergonomically great... if you want to write an essay. But I mostly write co
 
 I Logitech ever reads this post, I would buy this keyboard if the `ctrl`, `alt`, and `start` keys were positioned closer to the middle of the keyboard - either eating into the spacebar's realestate, or positioned just under it. Either of those design updated would solve my finger cramping issue and make this keyboard usable, even with the numeric pad.
 
-| Pros | Cons |
-|:----:|:----:|
-| Chiclet key layout | NumPad |
-| Wireless bluetooth with multipoint connectivity |  |
-| Ergnomically built, with wrist rest |  |
-| High operating force |  |
-| Quiet | A little too quiet |
-|  | Higher total travel distance |
-| Tactile feedback |  |
-| Easy to replace 2xAAA battery | Battery e-waste |
+|                      Pros                      |             Cons            |
+|:----------------------------------------------:|:---------------------------:|
+|               Chiclet key layout               |            NumPad           |
+| Wireless bluetooth with multipoint connectivity |                             |
+|       Ergnomically built, with wrist rest      |                             |
+|              High operating force              |                             |
+|                      Quiet                     |      A little too quiet     |
+|                                                | Higher total travel distance |
+|                Tactile feedback                |                             |
+|          Easy to replace 2xAAA battery         |       Battery e-waste       |
 
 
 # Mouse
+
+My search for a good mouse was sparked by some [RSI][rsi] injuries to my forearm. I tried a range of mice and arrived at these criteria with which to pick out a mouse:
+
+1. Not too large, so I can rest my wrist on the desk. Contrary to ergonamic advice, I prefer to not have the movement start from my shoulder.
+2. Not so small it'd cramp my hand
+3. Sufficient responsiveness (high enough DPI)
+4. Wireless (I hate wires on my desk)
+5. Not reliant on a mousepad (I dislike cluttering my desk)
+6. Tactile scroll wheel - I like to feel each "tick"
+
+## Logitech M305
+[This][logitech m305] was the first mouse I came to love. It hits every point on my list, and works well with Logitech's unifying receiver. The $35 price tag (at the time) was more than I could afford then, which is why I moved to something else after the scroll wheel wore out.
+
+## Amazon Basics
+
+Funnily enough, [this $15 Amazon Basics mouse][amazon basics mouse] was the least worst option. Everything about this mouse just works except the scroll wheel, which often causes a scroll in the wrong direction. Over the three years I've used this mouse, there's some wear in the battery contacts as well (this causes the battery to disconnect every so often, which is annoying).
 
 # Software
 
@@ -248,4 +264,9 @@ I Logitech ever reads this post, I would buy this keyboard if the `ctrl`, `alt`,
 [logitech mx keys mini]: 
 [cr2032]: https://www.amazon.ca/AmazonBasics-CR2032-Lithium-Coin-Cell/dp/B0787K2XWZ/
 
+[logitech m305]: https://www.amazon.ca/Logitech-M305-Wireless-Mouse-Black/dp/B003HC2FHE
+[amazon basics mouse]: https://www.amazon.ca/gp/product/B005EJH6Z4
+
 [focusrite scarlett]: https://www.amazon.ca/Focusrite-SCARLETT-2I2-3RD-GEN-2x2-Audio-Interface/dp/B07QR73T66/
+
+[rsi]: https://www.nhs.uk/conditions/repetitive-strain-injury-rsi
