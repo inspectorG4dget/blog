@@ -15,3 +15,6 @@ The hope is very much that Google will do a better job of organizing this infrom
 - [WhenIsGood](when_is_good.md)
 - [Wisdom](wisdom.md)
 - [Everything Else](everything_else.md)
+  - Code Snippets
+    - GitHub Actions
+      - [Slash Commands](git/github/github_automation/slash_commands.md)
