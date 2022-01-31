@@ -10,6 +10,7 @@ The hope is very much that Google will do a better job of organizing this infrom
 - [Machines Like Us](machines_like_us.md)
 - [Mindstorm NXT](mindstorm_nxt_2_0.md)
 - [Setup Instructions](setup_instructions.md)
+  - [Provisioing a New Machine](provisioning/provisioning.md)
 - [StackOverflow](stackoverflow.md)
 - [Ted Talks](ted_talks.md)
 - [WhenIsGood](when_is_good.md)
@@ -18,3 +19,4 @@ The hope is very much that Google will do a better job of organizing this infrom
   - Code Snippets
     - GitHub Actions
       - [Slash Commands](git/github/github_automation/slash_commands.md)
+      - 
