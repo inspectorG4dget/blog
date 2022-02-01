@@ -122,6 +122,8 @@ I purchased the v1 product circa 2012 and the v2 product circa 2020, and they bo
 
 I am aware that [Nexstand makes a less expensive alternative][nexstand] and have friends that use it (without any complaints), but I haven't tested this myself and therefore can't say much about it.
 
+# Laptop Sleeve
+
 # Keyboard
 
 I have a thing for keyboards and am yet to find one that "does it" for me. I'm not a gamer and I fall in some odd minority in my choice of keyboards, keycaps, and switches. My requirements of a keyboard come from spending way too much of my daily time at my keyboard, which means that even small inefficiencies add up over a day.
